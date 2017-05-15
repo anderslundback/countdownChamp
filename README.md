@@ -1,5 +1,8 @@
 Simple countdown timer written in react. 
 
+Setup: clone repo and 
+## `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
